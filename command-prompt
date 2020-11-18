@@ -1,0 +1,8 @@
+cmd = input("AllFiles/Users/Lovecodeabc>")
+if cmd.upper() == "WHOMADETHIS":
+  print("lovecodeabc made this")
+elif cmd.upper()== "VERSION":
+  print("Version 1.0"
+  ) 
+else:
+  print("Command Not Recognized")
